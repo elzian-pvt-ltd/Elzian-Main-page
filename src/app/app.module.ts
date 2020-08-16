@@ -20,7 +20,7 @@ import { HomeComponent } from './home/home.component';
     AboutComponent,
     ServiceComponent,
     ContactComponent,
-    HomeComponent
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
