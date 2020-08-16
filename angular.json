@@ -24,7 +24,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/theme.css",
+              "src/assets/css/media.css",
+              "src/assets/css/font-awesome.min.css"
             ],
             "scripts": []
           },
@@ -88,7 +91,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/theme.css",
+              "src/assets/css/media.css",
+              "src/assets/css/font-awesome.min.css"
             ],
             "scripts": []
           }
