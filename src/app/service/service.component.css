@@ -1,0 +1,4 @@
+.pop-up:hover {
+  transform: scale(1.08);
+  transition: transform 450ms;
+}
