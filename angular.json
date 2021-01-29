@@ -26,15 +26,15 @@
             "styles": [
               "src/styles.css",
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/assets/css/theme.css",
-              "src/assets/css/media.css",
-              "src/assets/css/font-awesome.min.css"
+              "assets/css/theme.css",
+              "assets/css/media.css",
+              "assets/css/font-awesome.min.css"
             ],
             "scripts": [
-              "src/assets/js/jquery-1.11.0.min.js",
-              "src/assets/js/jquery.sudoSlider.min.js",
-              "src/assets/js/global.js",
-              "src/assets/js/modernizr.js"
+              "assets/js/jquery-1.11.0.min.js",
+              "assets/js/jquery.sudoSlider.min.js",
+              "assets/js/global.js",
+              "assets/js/modernizr.js"
             ]
           },
           "configurations": {
@@ -98,9 +98,9 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/assets/css/theme.css",
-              "src/assets/css/media.css",
-              "src/assets/css/font-awesome.min.css"
+              "assets/css/theme.css",
+              "assets/css/media.css",
+              "assets/css/font-awesome.min.css"
             ],
             "scripts": []
           }
